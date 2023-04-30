@@ -1,0 +1,15 @@
+C:\Users\Anar\git2023\hwitog\bin\Debug\net7.0\hwitog.exe
+C:\Users\Anar\git2023\hwitog\bin\Debug\net7.0\hwitog.deps.json
+C:\Users\Anar\git2023\hwitog\bin\Debug\net7.0\hwitog.runtimeconfig.json
+C:\Users\Anar\git2023\hwitog\bin\Debug\net7.0\hwitog.dll
+C:\Users\Anar\git2023\hwitog\bin\Debug\net7.0\hwitog.pdb
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.csproj.AssemblyReference.cache
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.AssemblyInfoInputs.cache
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.AssemblyInfo.cs
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.csproj.CoreCompileInputs.cache
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.dll
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\refint\hwitog.dll
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.pdb
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\hwitog.genruntimeconfig.cache
+C:\Users\Anar\git2023\hwitog\obj\Debug\net7.0\ref\hwitog.dll
